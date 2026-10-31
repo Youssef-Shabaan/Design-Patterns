@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AddaptorPattern/AddaptorPattern.csproj" />
+  <Project Path="PayrollSystem/PayrollSystem.csproj" />
+</Solution>
